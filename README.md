@@ -33,11 +33,13 @@ git clone https://github.com/your-username/Netflix-Movie-Recommendation-System.g
 cd Netflix-Movie-Recommendation-System
  ```
 2. **Install Dependencies**
-   pip install -r requirements.txt
-
+```
+pip install -r requirements.txt
+```
 3. **Run the notebook**
-   jupyter notebook "Netflix Movie Recommendation System.ipynb"
-
+```
+jupyter notebook "Netflix Movie Recommendation System.ipynb"
+```
 ---
 
 ## 🎯 Usage
